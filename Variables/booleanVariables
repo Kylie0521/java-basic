@@ -1,6 +1,4 @@
-```java  
-  
-//public static void main(String[] args){
+public static void main(String[] args){
 	boolean passedDoor = true;
 	boolean missedDoor = false;
 	boolean passedAllDoors = false;
@@ -25,5 +23,3 @@
 	}
     }
 }
-  
-```
