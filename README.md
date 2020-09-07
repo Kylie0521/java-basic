@@ -8,10 +8,20 @@ declare string bariables:
 //String name = "Apple";
   
 ```
-useeful String Methods
+useful String Methods
 1. startsWith("a")
 2. endsWith("a")
 3. length()
+length() String Method in Java
+In Java, the length() string method returns the total number of characters – the length – of a String.
+```java  
+  
+//String str = "Codecademy";  
+
+System.out.println(str.length());
+// prints 10
+  
+```
 4. indexOf("a")
 5. replace("a","b")
 6. toUpperCase()
@@ -19,4 +29,6 @@ useeful String Methods
 
 
 ### Arrays
+
+
 
