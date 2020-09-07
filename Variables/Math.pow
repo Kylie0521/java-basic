@@ -1,0 +1,8 @@
+public class Exponnets{
+	pubic static void main(String[] args){
+		System.out.println((int) Math.pow(5,2));
+	}
+}
+
+
+//prints 5^2 =25
