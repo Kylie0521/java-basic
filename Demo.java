@@ -1,3 +1,5 @@
+//how many integers from 1 to 100 can be divided by 3?
+
 public class Demo{
 	public static void main(String[] args){
 		int count = 0;
